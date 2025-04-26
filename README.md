@@ -1,1 +1,1 @@
-# bluetooth_slam_fusion_location
+This is my master's graduation design ,it's mainly about bluetooth location and visaul slam fusion .Bluetooth location uses Taxes Instruments' CC26X2R1 and BOOSTXL-AOA,and visaul slam uses ORB_SLAM2-CUDA.
